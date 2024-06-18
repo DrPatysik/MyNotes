@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyNotes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notes">Notes</string>
+    <!-- TODO add text in activity main.xml Content description -->
+    <string name="todo">TODO</string>
+</resources>
